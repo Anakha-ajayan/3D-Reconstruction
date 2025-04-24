@@ -1,0 +1,20 @@
+# Created with FME Version: FME(R) 2020.0.2.1 20200511 - Build 20238 - WIN64
+# COORDINATE_SYSTEM:  
+# Number of Geometry Coordinates  : 6
+# Number of Texture  Coordinates  : 0
+# Number of Normal   Coordinates  : 2
+v 571332.125000 7030780.000000 109.510002
+v 571333.750000 7030785.500000 107.190002
+v 571316.687500 7030784.500000 109.510002
+v 571318.312500 7030790.000000 107.190002
+v 571330.562500 7030774.500000 107.190002
+v 571315.125000 7030779.500000 107.190002
+vn 0.109232 0.923549 -0.367595
+vn -0.108950 0.923549 0.367678
+# Number of Elements in set       : 4
+f 1//1 2//1 3//1 
+f 3//1 2//1 4//1 
+f 5//2 1//2 6//2 
+f 6//2 1//2 3//2 
+# Total Number of Elements in file: 4
+# EOF
